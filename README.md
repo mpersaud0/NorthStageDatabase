@@ -1,6 +1,6 @@
 # NorthStageDatabase
 
-##USES OF NORTH STAGE DATABASE<br>
+## USES OF NORTH STAGE DATABASE<br>
 -This database will be used for the purpose of having drift event (North Stage) organizers <br>
 access records of all potential drivers submitting applications to drive at the event
 <br> <br>
