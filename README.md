@@ -12,7 +12,7 @@ The database will also ensure that all potential drivers are not forgetting to s
 crucial information that will prevent organizers from making an informed decision 
 <br><br>
 The script file in this repository will allow the person downloading it to:<br>
-Create the north stage database<br>
-Populate the tables<br>
-Sort the tables based on certain criteria an event organizer would want to know<br>
-Approve or deny the drivers that meet this critera
+-Create the north stage database<br>
+-Populate the tables<br>
+-Sort the tables based on certain criteria an event organizer would want to know<br>
+-Approve or deny the drivers that meet this critera
